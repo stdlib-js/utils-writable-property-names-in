@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-writable-property-names-in",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Return an array of an object's own and inherited writable property names.",
   "license": "Apache-2.0",
   "author": {
@@ -38,9 +38,9 @@
   },
   "dependencies": {
     "@stdlib/assert-has-own-property": "^0.1.1",
-    "@stdlib/assert-is-writable-property": "^0.1.1",
-    "@stdlib/utils-get-prototype-of": "^0.1.1",
-    "@stdlib/utils-property-names": "^0.1.0"
+    "@stdlib/assert-is-writable-property": "^0.2.0",
+    "@stdlib/utils-get-prototype-of": "^0.2.0",
+    "@stdlib/utils-property-names": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-array": "^0.1.1",
