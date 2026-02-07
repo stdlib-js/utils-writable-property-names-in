@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import writablePropertyNamesIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-names-in@esm/index.mjs';
+import writablePropertyNamesIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-names-in@v0.2.3-esm/index.mjs';
 ```
 
 #### writablePropertyNamesIn( obj )
@@ -94,7 +94,7 @@ var keys = writablePropertyNamesIn( obj );
 <script type="module">
 
 import defineProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-define-property@esm/index.mjs';
-import writablePropertyNamesIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-names-in@esm/index.mjs';
+import writablePropertyNamesIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-names-in@v0.2.3-esm/index.mjs';
 
 function Foo() {
     this.a = {
